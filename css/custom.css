@@ -2,5 +2,11 @@
   max-width: 1000px;
 }
 img {
-  max-width: 100%;
+  float: left;
+  margin-right: 5%;
+
+  max-width: 50%;
+}
+#orange {
+  background-color: orange;
 }
