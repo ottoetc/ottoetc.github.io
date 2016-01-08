@@ -7,6 +7,6 @@ img {
 
   max-width: 50%;
 }
-#orange {
-  background-color: orange;
+#info {
+  float: right;
 }
